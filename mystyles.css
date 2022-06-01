@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="mystyles.css">
+body {
+    background-color: blue;
+    font-family: Arial ;
+}
+h1 {
+    font-family: georgia;
+    color: rgb(25, 145, 25);
+
+}
+p {
+    font-family: "Arial";
+    font-size: 20px;
+}
+
+
+
